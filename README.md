@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://diegoneitorex.github.io/Ventas-de-Casa/)
+[Live Demo Link](https://diegoneitorex.github.io/Juego-de-Carros-Simples/)
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Diegoneitorex/Ventas-de-Casa/issues).
+Feel free to check the [issues page](https://github.com/Diegoneitorex/Juego-de-Carros-Simples/issues).
 
 ## Show your support
 
